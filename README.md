@@ -3,7 +3,10 @@
 This repository contains a **Power BI dashboard** project focused on analyzing business performance through interactive visualizations. 
 
 ## 📊 Project Overview
-The dashboard provides a clear and comprehensive view of key business metrics of Netflix, enabling data-driven decision-making. It consolidates raw data into meaningful insights with interactive filters and drill-through features.
+The dashboard provides a clear and comprehensive view of key business metrics of Netflix, enabling data-driven decision-making. It consolidates raw data into meaningful insights with interactive filters and drill-through features. 
+
+## Dataset Used
+https://www.kaggle.com/datasets/syedmubarak/netflix-dataset-latest-2021
 
 ## 🔑 Key Features
 - **Sales Performance Tracking** – Analyze total sales, average sales, and trends over time.
